@@ -1,0 +1,15 @@
+[
+  "EtherScanSpider.py::test_find_name",
+  "EtherScanSpider.py::test_find_symbol",
+  "EtherScanSpider.py::test_get_three_currencies",
+  "EtherScanSpider.py::test_job_return[1]",
+  "EtherScanSpider.py::test_job_return[2]",
+  "EtherScanSpider.py::test_job_return[3]",
+  "EtherScanSpider.py::test_job_return[4]",
+  "EtherScanSpider.py::test_job_return[5]",
+  "EtherScanSpider.py::test_main_return[1]",
+  "EtherScanSpider.py::test_main_return[2]",
+  "EtherScanSpider.py::test_main_return[3]",
+  "EtherScanSpider.py::test_main_return[4]",
+  "EtherScanSpider.py::test_main_return[5]"
+]

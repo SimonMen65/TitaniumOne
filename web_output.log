@@ -1,0 +1,15 @@
+2019/07/05 19:41:52 - INFO - web - log_request - 200 GET /single?symbol=BTT&time=20190705_1930 (127.0.0.1) 11.03ms
+2019/07/05 19:42:04 - INFO - web - log_request - 200 GET /single?symbol=BTT&time=20190705_1920 (127.0.0.1) 8.36ms
+2019/07/05 19:42:17 - INFO - web - log_request - 200 GET /flow?symbol=BTT (127.0.0.1) 8.85ms
+2019/07/06 11:48:50 - INFO - web - log_request - 200 GET /flow?symbol=BTT (127.0.0.1) 15.24ms
+2019/07/06 11:48:51 - WARNING - web - log_request - 404 GET /favicon.ico (127.0.0.1) 0.72ms
+2019/07/06 11:50:02 - INFO - web - log_request - 200 GET /latest?symbol=BTT (127.0.0.1) 11.85ms
+2019/07/06 11:50:39 - INFO - web - log_request - 304 GET /flow?symbol=BTT (127.0.0.1) 10.80ms
+2019/07/06 11:51:53 - INFO - web - log_request - 200 GET /flow?symbol=NEO (127.0.0.1) 8.51ms
+2019/07/06 11:52:04 - INFO - web - log_request - 200 GET /flow?symbol=ICE (127.0.0.1) 11.70ms
+2019/07/06 11:53:20 - INFO - web - log_request - 200 GET /flow?symbol=MCO (127.0.0.1) 11.76ms
+2019/07/08 10:49:36 - INFO - web - log_request - 200 GET /flow?symbol=BTT (127.0.0.1) 31.11ms
+2019/07/08 10:49:40 - INFO - web - log_request - 200 GET /flow?symbol=BTC (127.0.0.1) 14.61ms
+2019/07/08 11:14:06 - INFO - web - log_request - 200 GET /flow?symbol=ETH (127.0.0.1) 17.59ms
+2019/07/08 17:21:18 - INFO - web - log_request - 200 GET /flow?symbol=BTT (127.0.0.1) 8.09ms
+2019/07/08 17:21:18 - WARNING - web - log_request - 404 GET /favicon.ico (127.0.0.1) 0.58ms

@@ -1,0 +1,23 @@
+{
+  "EOSParkSpider.py::test_main_return[1]": true,
+  "EOSParkSpider.py::test_main_return[2]": true,
+  "EOSParkSpider.py::test_main_return[3]": true,
+  "EOSParkSpider.py::test_main_return[4]": true,
+  "EOSParkSpider.py::test_main_return[5]": true,
+  "EOSParkSpider.py::test_process_raw_data[1]": true,
+  "EOSParkSpider.py::test_process_raw_data[2]": true,
+  "EOSParkSpider.py::test_process_raw_data[3]": true,
+  "EOSParkSpider.py::test_process_raw_data[4]": true,
+  "EOSParkSpider.py::test_process_raw_data[5]": true,
+  "EtherScanSpider.py::test_job_return[1]": true,
+  "EtherScanSpider.py::test_job_return[5]": true,
+  "Obtain_BTC_ETH_Currency.py::test_job_innormal": true,
+  "Obtain_BTC_ETH_Currency.py::test_job_inside_return": true,
+  "Obtain_BTC_ETH_Currency.py::test_job_return": true,
+  "Obtain_BTC_ETH_Currency.py::test_len_job_inside_return[1]": true,
+  "Obtain_BTC_ETH_Currency.py::test_len_job_inside_return[2]": true,
+  "Obtain_BTC_ETH_Currency.py::test_len_job_inside_return[3]": true,
+  "Obtain_BTC_ETH_Currency.py::test_len_job_inside_return[4]": true,
+  "Obtain_BTC_ETH_Currency.py::test_len_job_inside_return[5]": true,
+  "Obtain_BTC_ETH_Currency.py::test_len_job_return": true
+}
